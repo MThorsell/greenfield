@@ -4,7 +4,15 @@ bower_components/
 
 build/
 dist/
+
 public/client/assets/libs/
+
+
+assets/libs/
+
+
+lib/
+
 
 .env
 
